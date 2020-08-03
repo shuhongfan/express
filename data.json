@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "age": 18,
+      "job": 3
+    },
+    {
+      "id": 2,
+      "username": "root",
+      "age": 28,
+      "job": 2
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "name":"学生"
+    },{
+      "id": 2,
+      "name":"老师"
+    },{
+      "id": 3,
+      "name":"公务员"
+    },{
+      "id": 4,
+      "name":"工程师"
+    }
+  ]
+}
